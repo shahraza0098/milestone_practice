@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-07T09:09:26 IST" name="Guru99 Banking Suite" finished-at="2026-06-07T09:09:35 IST" duration-ms="9336">
+    <groups>
+    </groups>
+    <test started-at="2026-06-07T09:09:26 IST" name="Customer Onboarding Test" finished-at="2026-06-07T09:09:35 IST" duration-ms="9336">
+      <class name="tests.CustomerOnboardingTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.CustomerOnboardingTest@7b2bbc3]" started-at="2026-06-07T09:09:26 IST" name="setup" finished-at="2026-06-07T09:09:30 IST" duration-ms="3782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="createCustomerAndAccount()[pri:0, instance:tests.CustomerOnboardingTest@7b2bbc3]" started-at="2026-06-07T09:09:30 IST" name="createCustomerAndAccount" finished-at="2026-06-07T09:09:35 IST" duration-ms="5494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomerAndAccount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.CustomerOnboardingTest@7b2bbc3]" started-at="2026-06-07T09:09:35 IST" name="tearDown" finished-at="2026-06-07T09:09:35 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.CustomerOnboardingTest -->
+    </test> <!-- Customer Onboarding Test -->
+  </suite> <!-- Guru99 Banking Suite -->
+</testng-results>

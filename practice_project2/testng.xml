@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name="Guru99 Banking Suite">
+
+    <test name="Customer Onboarding Test">
+
+        <classes>
+            <class name="tests.CustomerOnboardingTest"/>
+        </classes>
+    </test>
+</suite>
